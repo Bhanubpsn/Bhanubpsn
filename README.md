@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Learning App Development, Data Structures and Algorithms and<br>Competitive Programing.
+I'm Learning App/Web and Backend Development, Data Structures and Algorithms and<br>Competitive Programing.
 
 
 ## 🌐 Socials:
