@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhanu Negi</h1>
 <h3 align="center">grep -io bugs > /dev/null</h3>
 
-<p align="left"> <a href="https://twitter.com/bhanu-bpsn" target="blank"><img src="https://img.shields.io/twitter/follow/bhanu-bpsn?logo=twitter&style=for-the-badge" alt="bhanu-bpsn" /></a> </p>
+<p align="left"> <a href="https://twitter.com/bhanu_bpsn" target="blank"><img src="https://img.shields.io/twitter/follow/bhanu-bpsn?logo=twitter&style=for-the-badge" alt="bhanu-bpsn" /></a> </p>
 
 - 🔭 I’m currently working on **Implementing my own Database in GoLang**
 
