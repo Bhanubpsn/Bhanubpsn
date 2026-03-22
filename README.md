@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/bhanu_bpsn" target="blank"><img src="https://img.shields.io/twitter/follow/bhanu-bpsn?logo=twitter&style=for-the-badge" alt="bhanu-bpsn" /></a> </p>
 
-- 🔭 I’m currently working on **Implementing my own Database in GoLang**
+- 🔭 I’m currently working on **Implementing my own Database in C++**
 
 - 🌱 I’m currently learning **AWS, Distributed Systems, PostgreSQL, Concurrency**
 
