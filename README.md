@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/bhanu_bpsn" target="blank"><img src="https://img.shields.io/twitter/follow/bhanu-bpsn?logo=twitter&style=for-the-badge" alt="bhanu-bpsn" /></a> </p>
 
-- 🔭 I’m currently working on **Implementing a Distributed Data Stream using UDP via C++ and GOLang**
+- 🔭 I’m currently working on **Implementing an Operating System, (Long way to go)**
 
 - 🌱 I’m currently learning **AWS, Distributed Systems, PostgreSQL, Concurrency**
 
